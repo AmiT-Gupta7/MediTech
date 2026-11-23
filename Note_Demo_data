@@ -1,0 +1,29 @@
+// doctor details.
+{
+  "full_name": "Dr Test Doctor",
+  "email": "testdoctor2@example.com",
+  "password": "Doctor@123",
+  "role": "doctor"
+}
+
+LOgin details for doctor.
+{
+  "email": "testdoctor2@example.com",
+  "password": "Doctor@123"
+}
+
+// patient details.
+{
+  "full_name": "Test Patient 2",
+  "email": "testpatient2@example.com",
+  "password": "Patient@123",
+  "role": "patient"
+}
+
+login details for patient.
+{
+  "email": "testpatient2@example.com",
+  "password": "Patient@123"
+}
+
+// real appointment id = 83cb69b5-cd67-4f64-918d-13a63ebf0257
